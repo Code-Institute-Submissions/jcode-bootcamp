@@ -52,16 +52,19 @@ nav a:hover {
 /* hero section */
 #hero-section {
     display: flex;
-    height: 600px;
+    height: 720px;
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    background: url("../images/hero-image.jpeg") no-repeat center center;
+    background-size: cover;
 }
 
 #hero-section h1 {
     margin-bottom: 30px;
     font-size: 500%;
     text-shadow: 3px 3px #e69138;
+    color: #fff;
     text-transform: uppercase;
 }
 
