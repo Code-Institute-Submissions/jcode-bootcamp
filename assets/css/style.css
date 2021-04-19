@@ -48,3 +48,35 @@ nav a:hover {
     margin-left: 30px;
     text-decoration: none;
 }
+
+/* hero section */
+#hero-section {
+    display: flex;
+    height: 600px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#hero-section h1 {
+    margin-bottom: 30px;
+    font-size: 500%;
+    text-shadow: 3px 3px #e69138;
+    text-transform: uppercase;
+}
+
+#hero-section button {
+    border: none;
+    background: transparent;
+}
+
+#hero-section a {
+    font-family: "Fjalla One", sans-serif;
+    font-size: 300%;
+    background-color: #e69138;
+    color: #fff;
+    border-radius: 6px;
+    display: inline-block;
+    padding: 15px 120px;
+    text-decoration: none;
+}
