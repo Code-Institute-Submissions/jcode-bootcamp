@@ -49,6 +49,10 @@ nav a:hover {
     text-decoration: none;
 }
 
+#active {
+    text-decoration: underline;
+}
+
 /* hero section */
 #hero-section {
     display: flex;
