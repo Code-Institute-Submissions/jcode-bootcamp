@@ -11,6 +11,9 @@ body h1,
 body h2 {
     font-family: "Fjalla One", sans-serif;
     font-size: 300%;
+    text-transform: uppercase;
+    color: #fff;
+    text-shadow: 2px 2px #fc7303;
 }
 
 body p {
@@ -60,7 +63,7 @@ nav a:hover {
 #hero-section {
     display: flex;
     position: relative;
-    height: 720px;
+    height: 900px;
     justify-content: center;
     align-items: center;
     flex-direction: column;
