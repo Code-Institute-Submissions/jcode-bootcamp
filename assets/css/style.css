@@ -63,7 +63,7 @@ nav a:hover {
 #hero-section {
     display: flex;
     position: relative;
-    height: 900px;
+    height: 100vh;
     justify-content: center;
     align-items: center;
     flex-direction: column;
@@ -121,13 +121,13 @@ nav a:hover {
     background-color: #0390fc;
 }
 
-.reviews-flex {
+#reviews-flex {
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-.reviews-flex p {
+#reviews-flex p {
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -140,8 +140,29 @@ nav a:hover {
     border-radius: 6px;
     color: #fff;
     border-bottom: 3px solid #fff;
+}   
+
+#reviews-flex span {
+    font-style: italic;
 }
 
-.reviews-flex span {
-    font-style: italic;
+/* hiring partners */
+#hiring-partners {
+    text-align: center;
+    height: 450px;
+    padding: 30px 0 30px 0;
+    background-color: #0390fc;
+}
+
+#hiring-flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#hiring-flex p {
+    height: 210px;
+    width: 360px;
+    background-color: #fc7303;
+    margin: 30px 15px 15px 15px;    
 }
