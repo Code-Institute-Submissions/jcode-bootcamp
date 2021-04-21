@@ -18,6 +18,8 @@ body h2 {
 
 body p {
     font-family: "Roboto", sans-serif;
+    color: #fff;
+    font-size: 150%;
 }
 
 /* navbar */
@@ -131,14 +133,12 @@ nav a:hover {
     display: flex;
     justify-content: center;
     flex-direction: column;
-    font-size: 150%;
     margin: 30px 15px 15px 15px;
     padding: 15px;
     height: 210px;
     width: 360px;
     background-color: #fc7303;
     border-radius: 6px;
-    color: #fff;
     border-bottom: 3px solid #fff;
 }   
 
@@ -150,7 +150,7 @@ nav a:hover {
 #hiring-partners {
     text-align: center;
     height: 450px;
-    padding: 30px 0 30px 0;
+    
     background-color: #0390fc;
 }
 
@@ -162,7 +162,21 @@ nav a:hover {
 
 #hiring-flex p {
     height: 210px;
-    width: 360px;
+    width: 510px;
     background-color: #fc7303;
-    margin: 30px 15px 15px 15px;    
+    margin: 30px 90px 15px 15px;
+    padding: 15px;    
+    border-radius: 6px;
+    border-bottom: 3px solid #fff;
+}
+
+#company-logos {
+    height: 210px;
+    width: 360px;
+}
+
+#hiring-flex i {
+    font-size: 390%;
+    margin: 30px;
+    color: #fff;
 }
