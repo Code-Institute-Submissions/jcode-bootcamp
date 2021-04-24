@@ -157,7 +157,8 @@ nav a:hover {
 #hiring-partners {
     text-align: center;
     height: 450px;
-    background-color: #0390fc;
+    background-color: #3c3c3d;
+    padding-top: 30px;
 }
 
 #hiring-flex {
@@ -191,6 +192,7 @@ nav a:hover {
 #course-section {
     background-color: #0390fc;
     text-align: center;
+    padding-top: 30px;
 }
 
 .course {
@@ -219,4 +221,41 @@ nav a:hover {
     margin: 15px;
     padding: 15px;
     border-bottom: 3px solid #fc7303;
+}
+
+/* footer */
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+    background-color: #3c3c3d;
+}
+
+footer a {
+    color: #fff;
+}
+
+footer li {
+    display: inline-block;
+    font-size: 30px;
+    list-style: none;
+    margin: 0 15px;
+}
+
+footer button {
+    border: none;
+    background: transparent;
+}
+
+footer button a {
+    font-family: "Fjalla One", sans-serif;
+    font-size: 160%;
+    text-decoration: none;
+    text-transform: uppercase;
+    background-color: #fc7303;
+    border-radius: 6px;
+    border: 3px solid transparent;
+    padding: 6px 45px;
+    margin-left: 15px;
 }
