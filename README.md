@@ -14,6 +14,13 @@ Two main course structures are offered: an interview/data structures course, and
 
 People live busy lives, and this platform aims to provide all with a chance at learning to program.
 
+### User Goals
+
+Users visiting this site are searching for:
+* A place to learn how to code in their own time.
+* Information on different course types.
+* An organisation to contact to discuss whether coding would be for them.
+
 ### User Stories
     
 * As a first time visitor, I want the purpose of the website to be immediately clear and to be enticed by the content of the platform.
@@ -25,10 +32,16 @@ People live busy lives, and this platform aims to provide all with a chance at l
 * As a returning visitor, I want to be able to quickly compare reviews & stories of success against information I have found from competitors.
 * As a returning visitor, I want to quickly be able to get in touch with the organisation regarding any queries.
 
+### Business Goals
+
+This business aims to:
+* Generate more leads via contact form.
+* Increase web traffic and be discovered by a larger audience.
+
 ### Design
 
 * Colour Scheme
-    * The three main colours used across jCode are blue, orange and white.
+    * The three main colours used across jCode are blue, orange and grey.
 
 * Typography
     * The Fjalla One font is the font used for titles across the website, and Roboto is used for all paragraphs, with Sans-Serif as the fallback for both, in case the font isn't being imported to the site correctly for a user. These are both very clean fonts, with a modern feel, making them appropriate for clearly representing the information across the site. 
