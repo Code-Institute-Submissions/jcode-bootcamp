@@ -271,3 +271,16 @@ footer button a {
     padding: 6px 45px;
     margin-left: 15px;
 }
+
+/* about page */
+#about-main {
+    padding-top: 75px;
+    display: flex;
+}
+
+#about-main aside {
+    background-color: #3c3c3d;
+    margin: 60px;
+    height: 600px;
+    width: 30%;
+}
