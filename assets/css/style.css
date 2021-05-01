@@ -274,13 +274,22 @@ footer button a {
 
 /* about page */
 #about-main {
-    padding-top: 75px;
     display: flex;
+    justify-content: center;
+    padding-top: 75px;
 }
 
 #about-main aside {
     background-color: #3c3c3d;
-    margin: 60px;
+    margin: 90px 60px 0 0;
     height: 600px;
     width: 30%;
+}
+
+#about-section {
+    width: 50%;
+}
+
+#about-section h1 {
+    margin-bottom: 30px;
 }
