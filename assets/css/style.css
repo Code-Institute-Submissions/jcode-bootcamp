@@ -276,12 +276,12 @@ footer button a {
 #about-main {
     display: flex;
     justify-content: center;
-    padding-top: 75px;
+    padding-top: 90px;
 }
 
 #about-main aside {
     background-color: #3c3c3d;
-    margin: 90px 60px 0 0;
+    margin: 60px 60px 0 0;
     height: 600px;
     width: 30%;
 }
