@@ -293,3 +293,8 @@ footer button a {
 #about-section h1 {
     margin-bottom: 30px;
 }
+
+iframe {
+    width: 600px;
+    height: 240px;
+}
