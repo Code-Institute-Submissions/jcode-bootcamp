@@ -287,6 +287,16 @@ footer button a {
     margin: 60px 60px 0 0;
     height: 600px;
     width: 30%;
+    text-align: center;
+}
+
+#about-main li {
+    list-style-type: none;
+    margin-top: 45px;
+}
+
+#about-main h3 {
+    color: #fc7303;
 }
 
 #about-section {
