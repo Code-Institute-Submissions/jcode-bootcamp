@@ -71,6 +71,10 @@ nav a:hover {
     text-decoration: none;
 }
 
+#logo:hover {
+    color: #fc7303;
+}
+
 #active {
     background-color: #2d2d2e;
 }
