@@ -316,3 +316,8 @@ iframe {
     width: 600px;
     height: 240px;
 }
+
+/* course page */
+#course-main {
+    padding-top: 60px;
+}
