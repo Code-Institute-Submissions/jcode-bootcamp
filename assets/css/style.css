@@ -288,15 +288,12 @@ footer button a {
     height: 600px;
     width: 30%;
     text-align: center;
+    border-bottom: 3px solid #fc7303;
 }
 
 #about-main li {
     list-style-type: none;
     margin-top: 45px;
-}
-
-#about-main h3 {
-    color: #fc7303;
 }
 
 #about-section {
