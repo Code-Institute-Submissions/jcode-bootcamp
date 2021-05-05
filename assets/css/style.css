@@ -72,7 +72,7 @@ nav a:hover {
 }
 
 #active {
-    text-decoration: underline;
+    background-color: #2d2d2e;
 }
 
 /* hero section */
