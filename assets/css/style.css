@@ -340,6 +340,13 @@ iframe {
 }
 
 #form-flex div {
+    display: flex;
+    align-items: center;
     width: 50%;
     background-color: #3c3c3d;
+}
+
+#form-flex h2 {
+    text-shadow: none;
+    text-align: center;
 }
