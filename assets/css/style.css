@@ -322,3 +322,10 @@ iframe {
 #course-main {
     padding-top: 60px;
 }
+
+/* contact page */
+#contact-main {
+    display: flex;
+    justify-content: center;
+    padding-top: 90px;
+}
