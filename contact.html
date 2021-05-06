@@ -41,7 +41,27 @@
                 <h2>get in touch for course quotes, more info, or support as an existing student!</h2>
             </aside>
             <form action="">
-
+                <label for="fname"><p>First Name</p></label><br>
+                <input type="text" id="fname" name="fname"><br>
+                <label for="lname"><p>Last Name</p></label><br>
+                <input type="text" id="lname" name="lname"><br>
+                <label for="email"><p>Email</p></label><br>
+                <input type="email" id="email" name="email"><br>
+                <p>Which course(s) are you enquiring about?</p><br>
+                <input type="checkbox" id="data-struc" name="data-struc" value="Data Structures">
+                <label for="data-struc">Data Structures and Algorithms</label>
+                <input type="checkbox" id="data-struc" name="data-struc" value="Data Structures">
+                <label for="data-struc">Full Stack Development</label>
+                <p>Why are you enquiring?</p><br>
+                <input type="radio" id="student" name="contact_reason" value="Current Student">
+                <label for="student">Current Student</label>
+                <input type="radio" id="quote" name="contact_reason" value="Course Quote">
+                <label for="quote">Course Quote</label>
+                <input type="radio" id="info" name="contact_reason" value="More Info">
+                <label for="info">More Info</label><br>
+                <label for="comments"><p>Comments/Additional Info</p></label>
+                <textarea name="comments" id="" cols="30" rows="10"></textarea><br>
+                <input type="submit" value="Submit">
             </form>
         </div>
 

@@ -350,3 +350,7 @@ iframe {
     text-shadow: none;
     text-align: center;
 }
+
+form {
+    width: 50%;
+}
