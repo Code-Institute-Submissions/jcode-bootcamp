@@ -326,6 +326,19 @@ iframe {
 /* contact page */
 #contact-main {
     display: flex;
-    justify-content: center;
+    align-items: center;
+    flex-direction: column;
     padding-top: 90px;
+}
+
+#form-flex {
+    display: flex;
+    width: 75%;
+    height: 600px;
+    background-color: #fff;
+}
+
+#form-flex div {
+    width: 50%;
+    background-color: #000;
 }
