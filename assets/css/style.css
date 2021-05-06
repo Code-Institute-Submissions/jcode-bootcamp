@@ -335,10 +335,11 @@ iframe {
     display: flex;
     width: 75%;
     height: 600px;
-    background-color: #fff;
+    background-color: #fc7303;
+    margin-top: 15px;
 }
 
 #form-flex div {
     width: 50%;
-    background-color: #000;
+    background-color: #3c3c3d;
 }
