@@ -339,7 +339,7 @@ iframe {
     margin-top: 15px;
 }
 
-#form-flex div {
+#form-flex aside {
     display: flex;
     align-items: center;
     width: 50%;
