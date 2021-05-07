@@ -349,6 +349,7 @@ iframe {
 #form-flex h2 {
     text-shadow: none;
     text-align: center;
+    padding: 5px;
 }
 
 form {
