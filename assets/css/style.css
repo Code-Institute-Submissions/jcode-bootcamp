@@ -351,3 +351,11 @@ iframe {
     text-align: center;
 }
 
+form {
+    width: 50%;
+    text-align: center;
+}
+
+form p {
+    margin-bottom: 5px;
+}
