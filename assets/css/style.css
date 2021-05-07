@@ -337,6 +337,7 @@ iframe {
     height: 600px;
     background-color: #fc7303;
     margin-top: 15px;
+    border-bottom: 3px solid #fff;
 }
 
 #form-flex aside {
@@ -364,7 +365,7 @@ form p {
 
 input,
 textarea {
-    border: 2px solid #fff;
+    border: 1px solid #fff;
     border-radius: 3px;
     color: #fff;
     background-color: #3c3c3d;
@@ -389,6 +390,7 @@ input[type=checkbox] {
 
 input[type=submit] {
     padding: 15px;
+    font-family: "Roboto", sans-serif;
 }
 
 input[type=submit]:hover {
