@@ -41,12 +41,12 @@
                 <h2>get in touch for course quotes, more info, or support as an existing student!</h2>
             </aside>
             <form action="">
-                <label for="fname"><p>First Name</p></label>
-                <input type="text" id="fname" name="fname"><br><br>
-                <label for="lname"><p>Last Name</p></label>
-                <input type="text" id="lname" name="lname"><br><br>
+                <label for="fname"><p>First name</p></label>
+                <input type="text" id="fname" name="fname" required><br><br>
+                <label for="lname"><p>Last name</p></label>
+                <input type="text" id="lname" name="lname" required><br><br>
                 <label for="email"><p>Email</p></label>
-                <input type="email" id="email" name="email"><br><br>
+                <input type="email" id="email" name="email" required><br><br>
                 <p>Which course(s) are you enquiring about?</p>
                 <input type="checkbox" id="data-struc" name="data-struc" value="Data Structures">
                 <label for="data-struc">Data Structures and Algorithms</label>
@@ -60,7 +60,7 @@
                 <input type="radio" id="info" name="contact_reason" value="More Info">
                 <label for="info">More Info</label><br><br>
                 <label for="comments"><p>Comments/Additional Info</p></label>
-                <textarea name="comments" id="" cols="60" rows="5"></textarea><br><br>
+                <textarea name="comments" id="" cols="45" rows="3"></textarea><br><br>
                 <input type="submit" value="Submit">
             </form>
         </div>

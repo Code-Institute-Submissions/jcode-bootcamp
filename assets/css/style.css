@@ -355,8 +355,46 @@ iframe {
 form {
     width: 50%;
     text-align: center;
+    padding: 15px;
 }
 
 form p {
     margin-bottom: 5px;
+}
+
+input,
+textarea {
+    border: 2px solid #fff;
+    border-radius: 3px;
+    color: #fff;
+    background-color: #3c3c3d;
+    padding: 3px;
+    resize: none;
+}
+
+input[type=text] {
+    width: 30%;
+    height: 30px;
+}
+
+input[type=email] {
+    width: 50%;
+    height: 30px;
+}
+
+input[type=radio],
+input[type=checkbox] {
+    margin-left: 15px;
+}
+
+input[type=submit] {
+    padding: 15px;
+}
+
+input[type=submit]:hover {
+    background-color: #fc7303;
+}
+
+label {
+    font-family: "Roboto", sans-serif;
 }
