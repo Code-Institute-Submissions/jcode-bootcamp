@@ -158,7 +158,7 @@ nav a:hover {
     background-color: #fc7303;
     border-radius: 6px;
     border-bottom: 3px solid #fff;
-}   
+}
 
 #reviews-flex span {
     font-style: italic;
@@ -183,7 +183,7 @@ nav a:hover {
     width: 510px;
     background-color: #fc7303;
     margin: 30px 90px 15px 15px;
-    padding: 15px;    
+    padding: 15px;
     border-radius: 6px;
     border-bottom: 3px solid #fff;
 }
@@ -402,3 +402,5 @@ input[type=submit]:hover {
 label {
     font-family: "Roboto", sans-serif;
 }
+
+/* media queries */
