@@ -36,6 +36,10 @@ body p {
     font-size: 150%;
 }
 
+a {
+    text-decoration: none;
+}
+
 /* navbar */
 header {
     display: flex;
@@ -54,7 +58,6 @@ nav a {
     padding: 10px;
     margin-right: 15px;
     color: #fff;
-    text-decoration: none;
     border: 2px solid transparent;
     border-radius: 3px;
 }
@@ -68,7 +71,6 @@ nav a:hover {
     font-size: 270%;
     color: #fff;
     margin-left: 30px;
-    text-decoration: none;
 }
 
 #logo:hover {
@@ -109,7 +111,6 @@ nav a:hover {
     font-family: "Fjalla One", sans-serif;
     font-size: 300%;
     color: #000;
-    text-decoration: none;
     text-transform: capitalize;
     background-color: #fc7303;
     border-radius: 6px;
@@ -268,7 +269,6 @@ footer button {
 footer button a {
     font-family: "Fjalla One", sans-serif;
     font-size: 160%;
-    text-decoration: none;
     text-transform: uppercase;
     background-color: #fc7303;
     border-radius: 6px;
