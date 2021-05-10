@@ -332,6 +332,10 @@ iframe {
     padding-top: 60px;
 }
 
+#course-main li {
+    list-style-type: none;
+}
+
 /* contact page */
 #contact-main {
     display: flex;
