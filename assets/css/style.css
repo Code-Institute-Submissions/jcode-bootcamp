@@ -277,6 +277,10 @@ footer button a {
     margin-left: 15px;
 }
 
+footer p {
+    font-size: 100%;
+}
+
 /* about page */
 #about-main {
     display: flex;
