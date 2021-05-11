@@ -335,7 +335,7 @@ iframe {
     padding-top: 60px;
 }
 
-/* contact page */
+/* contact/sign up page */
 #contact-main {
     display: flex;
     align-items: center;
@@ -365,6 +365,7 @@ iframe {
     text-shadow: none;
     text-align: center;
     padding: 5px;
+    margin: 15px;
 }
 
 form {
