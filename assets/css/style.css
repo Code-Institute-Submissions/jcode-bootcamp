@@ -12,7 +12,7 @@ body {
     position: relative;
     min-height: 100vh;
     padding-bottom: 60px;
-    background-color: #0390fc;
+    background-color: #1992bf;
 }
 
 h1,
@@ -308,8 +308,17 @@ footer p {
     border-bottom: 3px solid #fc7303;
 }
 
+#about-main h2 {
+    margin-top: 20px;
+}
+
+#about-main h3 {
+    margin-top: 30px;
+}
+
 #about-main li {
-    margin-top: 45px;
+    margin: 45px 5px;
+    font-size: 130%;
 }
 
 #about-section {
