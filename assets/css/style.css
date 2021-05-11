@@ -1,6 +1,7 @@
 /* google fonts */
 @import url('https://fonts.googleapis.com/css2?family=Fjalla+One&family=Zilla+Slab+Highlight:wght@700&family=Roboto&display=swap');
 
+/* global */
 * {
     margin: 0;
     padding: 0;
@@ -30,7 +31,7 @@ h3 {
     color: #fff;
 }
 
-body p {
+p {
     font-family: "Roboto", sans-serif;
     color: #fff;
     font-size: 150%;
@@ -38,6 +39,10 @@ body p {
 
 a {
     text-decoration: none;
+}
+
+li {
+    list-style: none;
 }
 
 /* navbar */
@@ -257,7 +262,6 @@ footer a {
 footer li {
     display: inline-block;
     font-size: 30px;
-    list-style: none;
     margin: 0 15px;
 }
 
@@ -305,7 +309,6 @@ footer p {
 }
 
 #about-main li {
-    list-style-type: none;
     margin-top: 45px;
 }
 
@@ -330,10 +333,6 @@ iframe {
 /* course page */
 #course-main {
     padding-top: 60px;
-}
-
-#course-main li {
-    list-style-type: none;
 }
 
 /* contact page */
