@@ -355,7 +355,8 @@ iframe {
 
 #form-flex aside {
     display: flex;
-    align-items: center;
+    flex-direction: column;
+    justify-content: center;
     width: 50%;
     background-color: #3c3c3d;
 }
