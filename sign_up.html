@@ -55,18 +55,11 @@
                     <p>Email</p>
                 </label>
                 <input type="email" id="email" name="email" required><br><br>
-                <p>Which course(s) are you enquiring about?</p>
-                <input type="checkbox" id="data-struc" name="data-struc" value="Data Structures">
-                <label for="data-struc">Data Structures and Algorithms</label>
-                <input type="checkbox" id="data-struc" name="data-struc" value="Data Structures">
-                <label for="data-struc">Full Stack Development</label><br><br>
-                <p>Why are you enquiring?</p>
-                <input type="radio" id="student" name="contact_reason" value="Current Student">
-                <label for="student">Current Student</label>
-                <input type="radio" id="quote" name="contact_reason" value="Course Quote">
-                <label for="quote">Course Quote</label>
-                <input type="radio" id="info" name="contact_reason" value="More Info">
-                <label for="info">More Info</label><br><br>
+                <label for="courses"><p>Select Your Course</p></label>
+                <select name="courses" id="courses" required>
+                    <option value="data structures">Data Structures & Algorithms</option>
+                    <option value="full stack">Full Stack Web Development</option>
+                </select>
                 <label for="comments">
                     <p>Comments/Additional Info</p>
                 </label>
