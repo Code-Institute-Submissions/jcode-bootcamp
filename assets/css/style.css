@@ -276,13 +276,14 @@ footer button a {
     text-transform: uppercase;
     background-color: #fc7303;
     border-radius: 6px;
-    border: 3px solid #fc7303;
+    border: 3px solid transparent;
     padding: 6px 45px;
     margin-left: 15px;
 }
 
 footer button a:hover {
     background-color: #3c3c3d;
+    border: 3px solid #fc7303;
 }
 
 footer p {
