@@ -140,20 +140,20 @@ nav a:hover {
     bottom: 15px;
 }
 
-/* testimonials/reviews */
-#reviews-section {
+/* testimonials/reviews & tutors section */
+.review-tutor {
     text-align: center;
     height: 450px;
     padding-top: 30px;
 }
 
-#reviews-flex {
+.review-tutor-flex {
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-#reviews-flex p {
+.review-tutor p {
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -166,7 +166,7 @@ nav a:hover {
     border-bottom: 3px solid #fff;
 }
 
-#reviews-flex span {
+.review-tutor-flex span {
     font-style: italic;
 }
 
@@ -241,6 +241,36 @@ nav a:hover {
     margin: 15px;
     padding: 15px;
     border-bottom: 3px solid #fc7303;
+}
+
+/* tutors section */
+#tutors-section {
+    text-align: center;
+    height: 450px;
+    padding-top: 30px;
+}
+
+#tutors-flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#reviews-flex p {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 30px 15px 15px 15px;
+    padding: 15px;
+    height: 210px;
+    width: 360px;
+    background-color: #fc7303;
+    border-radius: 6px;
+    border-bottom: 3px solid #fff;
+}
+
+#reviews-flex span {
+    font-style: italic;
 }
 
 /* footer */
