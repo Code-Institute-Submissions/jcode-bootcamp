@@ -140,7 +140,7 @@ nav a:hover {
     bottom: 15px;
 }
 
-/* testimonials/reviews & tutors section */
+/* testimonials/reviews & tutors sections */
 .review-tutor {
     text-align: center;
     height: 450px;
@@ -168,6 +168,11 @@ nav a:hover {
 
 .review-tutor-flex span {
     font-style: italic;
+}
+
+#tutors {
+    background-color: #3c3c3d;
+    margin-bottom: 5px;
 }
 
 /* hiring partners */
