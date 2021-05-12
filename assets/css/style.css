@@ -388,7 +388,7 @@ iframe {
     padding-top: 90px;
 }
 
-#form-flex {
+#signup-flex {
     display: flex;
     width: 75%;
     height: 600px;
@@ -398,7 +398,7 @@ iframe {
     margin-bottom: 15px;
 }
 
-#form-flex aside {
+#signup-flex aside {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -406,14 +406,14 @@ iframe {
     background-color: #3c3c3d;
 }
 
-#form-flex h2 {
+#signup-flex h2 {
     text-shadow: none;
     text-align: center;
     padding: 5px;
     margin: 15px;
 }
 
-form {
+#signup-flex form {
     width: 50%;
     text-align: center;
     padding: 15px;
