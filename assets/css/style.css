@@ -419,6 +419,24 @@ iframe {
     padding: 15px;
 }
 
+#contact-flex {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 35%;
+    height: 600px;
+    background-color: #fc7303;
+    margin-top: 15px;
+    border-bottom: 3px solid #fff;
+    margin-bottom: 15px;
+}
+
+#contact-flex h2 {
+    margin-bottom: 15px;
+}
+
 input,
 textarea,
 select {
