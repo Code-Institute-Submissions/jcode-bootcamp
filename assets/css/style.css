@@ -300,12 +300,7 @@ footer li {
     margin: 0 15px;
 }
 
-footer button {
-    border: none;
-    background: transparent;
-}
-
-footer button a {
+#footer-contact {
     font-family: "Fjalla One", sans-serif;
     font-size: 160%;
     text-transform: uppercase;
@@ -316,7 +311,7 @@ footer button a {
     margin-left: 15px;
 }
 
-footer button a:hover {
+#footer-contact:hover {
     background-color: #3c3c3d;
     border: 3px solid #fc7303;
 }
