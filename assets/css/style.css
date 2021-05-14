@@ -519,3 +519,67 @@ label {
     }
 
 }
+
+@media screen and (max-width: 750px) {
+    /* footer */
+    footer p {
+        font-size: 80%;
+    }
+
+    #footer-contact {
+        font-size: 100%;
+    }
+}
+
+@media screen and (max-width: 650px) {
+    /* home page */
+    .review-tutor p {
+        width: 90%;
+        font-size: 120%;
+    }
+
+    #hiring-partners {
+        height: 630px;
+    }
+
+    #hiring-flex {
+        height: 510px;
+        align-content: center;
+    }
+
+    #hiring-flex p {
+        width: 90%;
+        font-size: 120%;
+        display: flex;
+        align-items: center;
+    }
+
+    #course-section h2 {
+        margin-bottom: 15px;
+    }
+    
+    .course {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .course-content,
+    .course-stat {
+        margin: 0 0 15px 0;
+        height: 50%;
+        width: 90%;
+    }
+
+    #course-2 {
+        flex-direction: column-reverse;
+    }
+
+    #company-logos {
+        width: 360px;
+    }
+
+    /* footer */
+    footer p {
+        display: none;
+    }
+}
