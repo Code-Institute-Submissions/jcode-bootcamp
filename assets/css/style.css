@@ -369,7 +369,7 @@ iframe {
     width: 600px;
     height: 240px;
     background-color: #fc7303;
-    padding: 15px;   
+    padding: 15px;
 }
 
 /* course page */
@@ -473,3 +473,49 @@ label {
 }
 
 /* media queries */
+@media screen and (max-width: 950px) {
+
+    /* home page */
+    #hero-section {
+        height: 60vh;
+    }
+
+    .review-tutor {
+        height: 600px;
+    }
+
+    .review-tutor p {
+        height: 120px;
+        width: 600px;
+    }
+
+    .review-tutor-flex {
+        flex-direction: column;
+    }
+
+    #hiring-partners {
+        height: 510px;
+    }
+
+    #hiring-flex {
+        flex-direction: column;
+        height: 420px;
+    }
+
+    #hiring-flex p {
+        margin: 30px 15px;
+    }
+
+    #company-logos {
+        width: 720px;
+    }
+
+    .course-content p {
+        font-size: 120%;
+    }
+
+    .course-content h3 {
+        font-size: 150%;
+    }
+
+}
