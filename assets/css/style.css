@@ -583,3 +583,26 @@ label {
         display: none;
     }
 }
+
+@media screen and (max-width: 570px) {
+    /* navbar */
+    header {
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    nav {
+        margin-bottom: 10px;
+    }
+
+    nav a {
+        font-size: 100%;
+        padding: 3px;
+        
+    }
+
+    #logo {
+        font-size: 150%;
+        margin: 10px 0;
+    }
+}
