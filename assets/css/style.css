@@ -587,6 +587,7 @@ label {
 }
 
 @media screen and (max-width: 570px) {
+
     /* global */
     h1,
     h2 {
@@ -618,7 +619,7 @@ label {
     #hero-section {
         padding-top: 75px;
     }
-    
+
     #hero-section h1 {
         font-size: 300%;
     }
@@ -647,5 +648,27 @@ label {
     /* footer */
     footer li {
         font-size: 20px;
+    }
+}
+
+@media screen and (max-width: 330px) {
+
+    /* home page */
+    .course-content p,
+    #hiring-flex p {
+        font-size: 100%;
+    }
+
+    #hero-section h1 {
+        font-size: 250%;
+    }
+
+    #hero-section a {
+        font-size: 125%;
+    }
+
+    /* footer */
+    #footer-contact {
+        padding: 6px 30px;
     }
 }
