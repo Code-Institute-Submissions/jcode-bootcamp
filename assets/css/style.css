@@ -218,7 +218,7 @@ nav a:hover {
 
 .course {
     display: flex;
-    height: 360px;
+    height: 420px;
     justify-content: center;
 }
 
@@ -473,7 +473,7 @@ label {
 }
 
 /* media queries */
-@media screen and (max-width: 950px) {
+@media screen and (max-width: 960px) {
 
     /* home page */
     #hero-section {
@@ -510,11 +510,17 @@ label {
         width: 720px;
     }
 
-    .course-content p {
+    .course-content p,
+    .course-stat p {
         font-size: 120%;
     }
 
     .course-content h3 {
+        font-size: 150%;
+    }
+
+    /* courses page */
+    #course-main h3 {
         font-size: 150%;
     }
 
@@ -532,7 +538,7 @@ label {
     }
 }
 
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 730px) {
 
     /* home page */
     .review-tutor p {
@@ -578,6 +584,11 @@ label {
 
     #company-logos {
         width: 360px;
+    }
+
+    /* courses page */
+    #course-main .course {
+        height: 600px;
     }
 
     /* footer */
@@ -643,6 +654,11 @@ label {
 
     .course {
         height: 600px;
+    }
+
+    /* courses page */
+    #course-main .course {
+        height: 700px;
     }
 
     /* footer */
