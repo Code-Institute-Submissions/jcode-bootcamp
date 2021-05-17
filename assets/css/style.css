@@ -565,7 +565,8 @@ label {
 @media screen and (max-width: 730px) {
 
     /* home page */
-    .review-tutor p {
+    .review-tutor p,
+    #hiring-flex p {
         width: 90%;
         font-size: 120%;
     }
@@ -580,8 +581,6 @@ label {
     }
 
     #hiring-flex p {
-        width: 90%;
-        font-size: 120%;
         display: flex;
         align-items: center;
     }
@@ -678,6 +677,16 @@ label {
 
     .course {
         height: 600px;
+    }
+
+    /* about page */
+    #about-main p {
+        font-size: 120%;
+    }
+
+    iframe{
+        width: 100%;
+        padding: 5px;
     }
 
     /* courses page */
