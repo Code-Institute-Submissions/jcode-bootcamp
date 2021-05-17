@@ -683,6 +683,11 @@ label {
         font-size: 125%;
     }
 
+    /* courses page */
+    #course-main .course {
+        height: 750px;
+    }
+
     /* footer */
     #footer-contact {
         padding: 6px 30px;
