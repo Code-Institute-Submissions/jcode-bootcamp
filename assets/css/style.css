@@ -628,6 +628,12 @@ label {
         width: 360px;
     }
 
+    /* about page */
+    #about-section,
+    #about-main aside {
+        width: 90%;
+    }    
+
     /* courses page */
     #course-main .course {
         height: 600px;
