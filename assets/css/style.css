@@ -377,7 +377,7 @@ iframe {
     padding-top: 60px;
 }
 
-/* contact/sign up page */
+/* contact/sign-up page */
 #contact-main {
     display: flex;
     align-items: center;
@@ -422,7 +422,7 @@ iframe {
     justify-content: center;
     align-items: center;
     text-align: center;
-    width: 35%;
+    width: 50%;
     height: 600px;
     background-color: #fc7303;
     margin-top: 15px;
@@ -631,6 +631,12 @@ label {
     /* courses page */
     #course-main .course {
         height: 600px;
+    }
+
+    /* sign-up/contact page */
+    #signup-flex,
+    #contact-flex {
+        width: 90%;
     }
 
     /* footer */
