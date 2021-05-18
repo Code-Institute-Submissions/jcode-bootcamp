@@ -380,13 +380,25 @@ iframe {
     padding-top: 90px;
 }
 
+#signup {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+#signup h1 {
+    background-color: #fc7303;
+    width: 75%;
+    text-align: center;
+}
+
 #signup-flex {
     display: flex;
     width: 75%;
     height: 600px;
     background-color: #fc7303;
-    margin-top: 15px;
     border-bottom: 3px solid #fff;
+    border-top: 3px solid #fff;
     margin-bottom: 15px;
 }
 
@@ -495,6 +507,10 @@ label {
         flex-direction: column;
         align-items: center;
         height: 100%;
+    }
+
+    #signup-flex h2 {
+        font-size: 210%;
     }
 
     #signup-flex form {
@@ -640,6 +656,10 @@ label {
         width: 90%;
     }
 
+    #signup h1 {
+        width: 90%;
+    }
+
     /* footer */
     footer p {
         display: none;
@@ -718,6 +738,11 @@ label {
     /* courses page */
     #course-main .course {
         height: 700px;
+    }
+
+    /* sign-up/contact page */
+    #signup-flex h2 {
+        font-size: 150%;
     }
 
     /* footer */
