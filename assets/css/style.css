@@ -338,10 +338,6 @@ footer p {
     margin-top: 20px;
 }
 
-#about-main h3 {
-    margin-top: 30px;
-}
-
 #about-main li {
     margin: 45px 5px;
     font-size: 130%;
@@ -357,6 +353,12 @@ footer p {
 
 #about-section h1 {
     margin-bottom: 30px;
+}
+
+#about-section h2 {
+    font-size: 210%;
+    text-shadow: none;
+    margin-top: 30px;
 }
 
 iframe {
