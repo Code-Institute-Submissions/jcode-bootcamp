@@ -39,6 +39,7 @@ Users visiting this site are searching for:
 ### Business Goals
 
 This business aims to:
+* Encourage people to sign up for a course.
 * Generate more leads via contact form.
 * Increase web traffic and be discovered by a larger audience.
 
@@ -53,5 +54,37 @@ This business aims to:
 * Imagery
     * The imagery across the site is relevant and coherent. Images are large, and eye-catching, but not stretched or pixelated. They are relevant to the meaning the site is trying to convey, providing a clean, modern aesthetic.
     
-
 [Project Wireframes](wireframes/p1-wireframes.pdf)
+
+## Features
+
+### Existing Features
+
+* Header Navigation Bar - This is present across all pages, allowing users to navigate easily and quicky through the pages of the site. The navigation element for the active page is styled so it's clear where the user currently is on the site.
+* Header Logo - Conforming to the conventional placement of a logo, the element is placed in the top left of the header and is present across all pages. When clicked, this will take the user back to the home page.
+* Footer Contact Button - A contact button is present in the footer across all pages. When clicked, this sends the user directly to the contact form on the sign up page, so they can address any queries they may have before actually signing up.
+* Footer Address - The business address is present in the footer across medium/large devices where there is space for it without looking cluttered.
+* Footer Socials - Icons linking to the social media are present in the footer across all pages. These links have appropriate aria-labels for accessibility, and all open in a new tab.
+* Home Page - Users are instantly presented with a clear hero image, and a call to action that aligns with the business goals and user stories, to promote more people signing up.
+* Home Page Testimonials - Positive reviews are presented on the home page, so users instantly know that this organisation is highly-rated and legitimate.
+* Home Page Hiring - A small section dedicated to showcasing the companies that alumni now work for. 
+* Home Page Course Overview - A brief of each course offered, so users can quickly see exactly what is available.
+* Home Page Tutor Section - A small section dedicated to showcasing the legitimacy of tutors, helping to reinforce the user's idea of a successful business.
+* About Page - Allows users to find out more about the business origin and location.
+* Courses Page - A more detailed view of both courses offered, including a rundown of the syllabus.
+* Sign Up Page - Where users can go and sign up to the course of their choosing. This page also has a general contact form for those who wish to find out more before committing.
+
+### Features to Implement in the Future
+
+* I would like to add small coding challenges to the site, however it was outside the scope of this project.
+* More animation/transitions across the site.
+* Additional relevant images; I had trouble finding free stock images that were relevant to the content and worth putting in.+
+* FAQ page.
+
+## Technologies
+
+## Testing
+
+## Deployment
+
+## Credits
