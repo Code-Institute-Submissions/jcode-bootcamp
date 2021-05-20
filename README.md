@@ -1,8 +1,12 @@
 # jCode Online Coding Bootcamp
 
+[View deployed site here](https://jacobshortall.github.io/jcode-bootcamp/index.html)
+
 This is the marketing site for jCode. jCode is an online coding bootcamp, focused on providing completely bespoke courses. This platform is unique in the sense that potential students get in touch to have a course tailored to them and their needs.
 
 The site is designed to be responsive and accesible on all devices, meaning it is easy to navigate for potential students.
+
+![Live site screenshot](screenshots/live_site_screenshot.JPG)
 
 ## UX
 
@@ -25,12 +29,12 @@ Users visiting this site are searching for:
     
 * As a first time visitor, I want the purpose of the website to be immediately clear and to be enticed by the content of the platform.
 * As a first time visitor, I want to be able to navigate through the site with ease and find what I'm looking for.
-* As a first time visitor, I want to see stories of success/legitimacy to know that this is a trusted organisation.
 * As a first time visitor, I want to be able to easily check social media accounts to determine trust.
-* As a first time visitor, I want to be able to compare the courses available.
-* As a returning visitor, I want to be instantly reminded exactly what the purpose of the site is.
+* As a potential student, I want to see stories of success/legitimacy to know that this is a trusted organisation.
+* As a potential student, I want to be able to compare the courses available.
+* As a potential student, I want to be able to quickly and easily contact the business.
 * As a returning visitor, I want to be able to quickly compare reviews & stories of success against information I have found from competitors.
-* As a returning visitor, I want to quickly be able to get in touch with the organisation regarding any queries.
+* As a returning visitor, who has already contacted the business, I want to be able to easily sign up for the course of my choice.
 
 ### Business Goals
 
