@@ -54,8 +54,7 @@ This business aims to:
 * Imagery
     * The imagery across the site is relevant and coherent. Images are large, and eye-catching, but not stretched or pixelated. They are relevant to the meaning the site is trying to convey, providing a clean, modern aesthetic.
     
-[Project Wireframes](wireframes/p1-wireframes.pdf)
-
+[Project Wireframes](wireframes/p1-wireframes.pdf) (These wireframes do not necessarily fully represent the final design.)
 ## Features
 
 ### Existing Features
@@ -78,10 +77,27 @@ This business aims to:
 
 * I would like to add small coding challenges to the site, however it was outside the scope of this project.
 * More animation/transitions across the site.
-* Additional relevant images; I had trouble finding free stock images that were relevant to the content and worth putting in.+
+* Additional relevant images; I had trouble finding free stock images that were relevant to the content and worth putting in.
 * FAQ page.
 
 ## Technologies
+
+### Languages Used
+
+* [HTML5](https://en.wikipedia.org/wiki/HTML5)
+* [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+
+### Frameworks, Libraries and Programs Used
+* [Google Fonts](https://fonts.google.com/)  
+    * This project uses Google Fonts to style fonts across the website.
+* [Font Awesome](https://fontawesome.com/)  
+    * Font Awesome was used for icons across the site.
+* [Balsamiq](https://balsamiq.com/)
+    * Balsamiq was used for creating the [wireframes](wireframes/p1-wireframes.pdf) used to design the project.
+* [Git](https://git-scm.com/)  
+    * Git was used for version control, using Git Bash terminal for Windows to commit and push code.
+* [Github](https://github.com/)  
+    * Github is used to store the project after being pushed to Git. It is also used for hosting the final site.
 
 ## Testing
 
