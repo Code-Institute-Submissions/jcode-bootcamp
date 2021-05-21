@@ -4,7 +4,7 @@
 
 This is the marketing site for jCode. jCode is an online coding bootcamp, focused on providing completely bespoke courses. This platform is unique in the sense that potential students get in touch to have a course tailored to them and their needs.
 
-The site is designed to be responsive and accesible on all devices, meaning it is easy to navigate for potential students.
+The site is designed to be responsive and accessible on all devices, meaning it is easy to navigate for potential students.
 
 ![Live site screenshot](screenshots/live_site_screenshot.JPG)
 
@@ -59,7 +59,7 @@ This business aims to:
 
 ### Existing Features
 
-* Header Navigation Bar - This is present across all pages, allowing users to navigate easily and quicky through the pages of the site. The navigation element for the active page is styled so it's clear where the user currently is on the site.
+* Header Navigation Bar - This is present across all pages, allowing users to navigate easily and quickly through the pages of the site. The navigation element for the active page is styled so it's clear where the user currently is on the site.
 * Header Logo - Conforming to the conventional placement of a logo, the element is placed in the top left of the header and is present across all pages. When clicked, this will take the user back to the home page.
 * Footer Contact Button - A contact button is present in the footer across all pages. When clicked, this sends the user directly to the contact form on the sign up page, so they can address any queries they may have before actually signing up.
 * Footer Address - The business address is present in the footer across medium/large devices where there is space for it without looking cluttered.
@@ -88,6 +88,7 @@ This business aims to:
 * [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 
 ### Frameworks, Libraries and Programs Used
+
 * [Google Fonts](https://fonts.google.com/)  
     * This project uses Google Fonts to style fonts across the website.
 * [Font Awesome](https://fontawesome.com/)  
@@ -100,6 +101,8 @@ This business aims to:
     * Github is used to store the project after being pushed to Git. It is also used for hosting the final site.
 
 ## Testing
+
+Find testing information in this separate file: TESTING.md
 
 ## Deployment
 

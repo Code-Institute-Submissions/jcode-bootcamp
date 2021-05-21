@@ -24,4 +24,7 @@
    "[html]": {
       "editor.defaultFormatter": "HookyQR.beautify"
    },
+   "cSpell.ignoreWords": [
+      "bootcamp"
+   ],
 }
