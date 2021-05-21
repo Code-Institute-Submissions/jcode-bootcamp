@@ -102,7 +102,7 @@ This business aims to:
 
 ## Testing
 
-Find testing information in this separate file: TESTING.md
+Find testing information in this separate file: [TESTING.md](TESTING.md)
 
 ## Deployment
 
