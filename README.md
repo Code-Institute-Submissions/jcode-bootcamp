@@ -106,4 +106,26 @@ Find testing information in this separate file: [TESTING.md](TESTING.md)
 
 ## Deployment
 
+This project is hosted on Github Pages. This method is as follows:
+
+* Log in to Github at https://github.com/
+* Navigate to the project repository you wish to host on Github Pages.
+* Click on "Settings" in the menu bar above the repo.
+* In the menu bar to the left on the settings page, click "Pages"
+* Under "Source", select the dropdown for "Branch" and select "master", or "main" in other cases, and then ensure that the correct directory is selected. In this case it is "root".
+* Click save, give up to 5 minutes for the site to deploy. A message will read "Your site is published at..." at the top of the "Pages" page.
+
 ## Credits
+
+### Code
+
+* All code is unique and written by the developer.
+
+### Content
+
+* All content was written by the developer.
+* Imagery was found from [Pexels](https://www.pexels.com/) - free stock images.
+
+### Acknowledgements 
+
+* Thank you to my mentor, Caleb, for the continuous feedback and support.
