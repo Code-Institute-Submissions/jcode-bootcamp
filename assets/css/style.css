@@ -218,13 +218,14 @@ nav a:hover {
 }
 
 .course p {
-    margin-top: 10px;
+    margin: 10px 0;
 }
 
 .course-content {
     display: flex;
     justify-content: center;
     flex-direction: column;
+    align-items: center;
     width: 45%;
     background-color: #fc7303;
     margin: 15px;
@@ -372,6 +373,14 @@ iframe {
 /* course page */
 #course-main {
     padding-top: 60px;
+}
+
+.price {
+    width: 50%;
+    margin: 10px 0;
+    padding: 10px;
+    background-color: #3c3c3d;
+    border-radius: 6px;
 }
 
 /* contact/sign-up page */
@@ -528,6 +537,14 @@ label {
         width: 60%;
     }
 
+    #course-main h3 {
+        font-size: 150%;
+    }
+
+    #course-main p {
+        font-size: 120%;
+    }
+
 }
 
 @media screen and (max-width: 960px) {
@@ -577,8 +594,8 @@ label {
     }
 
     /* courses page */
-    #course-main h3 {
-        font-size: 150%;
+    #course-main .course {
+        height: 510px;
     }
 
 }
@@ -740,7 +757,11 @@ label {
 
     /* courses page */
     #course-main .course {
-        height: 700px;
+        height: 900px;
+    }
+
+    #course-main .price {
+        font-size: 100%;
     }
 
     /* sign-up/contact page */
@@ -768,11 +789,6 @@ label {
 
     #hero-section a {
         font-size: 125%;
-    }
-
-    /* courses page */
-    #course-main .course {
-        height: 750px;
     }
 
     /* footer */
