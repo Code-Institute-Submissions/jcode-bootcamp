@@ -1,6 +1,6 @@
 # jCode Bootcamp Testing Details
 
-Every page was validated by the W3C Markup Validator and W3C CSS Validator Services to ensure there were  no errors in the code. There were no errors or warnings in any of the code.
+Every page was validated by the W3C Markup Validator and W3C CSS Validator Services to ensure there were no errors in the code. There were no errors or warnings in any of the code.
 * [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
 * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
 
